@@ -1,0 +1,7 @@
+
+
+org_id = "REPLACE_ME" # format "000000000000"
+
+billing_account = "REPLACE_ME" # format "000000-000000-000000"
+
+default_region = "europe-west3" # format europe-west3

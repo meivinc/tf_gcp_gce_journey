@@ -42,8 +42,8 @@ The purpose of this step is to deploy a Google Cloud Project which will contains
 
 Clone the Repository:
 ``` bash
-git clone https://github.com/<your_username>/terraform-gcp-journey.git
-cd terraform-gcp-journey
+git clone https://github.com/meivinc/tf_gcp_gce_journey.git
+cd tf_gcp_gce_journey
 
 # Init your project 
 cd 0-init

@@ -4,7 +4,7 @@ This repository contains Terraform code to help people take their first steps on
 
 ## Overview 
 
->[!NOTE] Folder deployment
+>[!NOTE]
 > - [**0-init**](0-init/readme.md): Initialization of the project, enabling APIs, creating service accounts, and managing bindings.
 > - [**1-network-layer**](1-network-layer/readme.md): Setting up the network layer, including VPC creation, subnets across multiple regions with Private Access Mode, Cloud NAT, Cloud DNS for googleapis.com private APIs, and firewall rules for various services.
 > - [**2-compute-deploy**](2-compute-deploy/readme.md): Deployment of Compute Engine instances on the created subnets with a startup script installing nginx.
